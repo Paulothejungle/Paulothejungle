@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=PauloThejungle&fontColor=ffffff&fontSize=42&animation=fadeIn)
 
-<h2 align="center">Hi 👋, I'm Rival</h2>
+<h2 align="center">Hi Bruuhhh👋</h2>
 <h4 align="center">
 Informatics Engineering Student • Backend Developer • PHP & Laravel
 </h4>
